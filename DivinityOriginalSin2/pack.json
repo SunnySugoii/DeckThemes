@@ -1,0 +1,10 @@
+{
+  "name": "Divinity Original Sin 2 Main Theme",
+  "description": "Background music for DeckThemes",
+  "author": "SunnySugoii",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
